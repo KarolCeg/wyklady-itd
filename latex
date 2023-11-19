@@ -1,0 +1,2 @@
+U(\eta) = \sqrt{ [\frac{\partial \eta}{\partial r}u(r)]^2 + [\frac{\partial \eta}{\partial g_k}u(g_k)]^2 + [\frac{\partial \eta}{\partial R}u(R)]^2 + [\frac{\partial \eta}{\partial h}u(h)]^2 + [\frac{\partial \eta}{\partial v_{gr}}u(v_{gr})]^2} = 
+\sqrt{[\frac{36rgv_{gr}(1+3,1\frac{r}{h}+2.4)}{\partial r}u(r)]^2 + [\frac{\partial \eta}{\partial g_k}u(g_k)]^2 + [\frac{\partial \eta}{\partial R}u(R)]^2 + [\frac{\partial \eta}{\partial h}u(h)]^2 + [\frac{\partial \eta}{\partial v_{gr}}u(v_{gr})]^2}
